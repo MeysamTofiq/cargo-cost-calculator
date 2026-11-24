@@ -1,0 +1,68 @@
+[
+  {
+    "code": "1",
+    "name": "رشت",
+    "price": 1000,
+    "popular": true
+  },
+  {
+    "code": "2",
+    "name": "انزلی",
+    "price": 3000,
+    "popular": false
+  },
+  {
+    "code": "3",
+    "name": "لاهیجان",
+    "price": 3000,
+    "popular": false
+  },
+  {
+    "code": "4",
+    "name": "رودسر",
+    "price": 5000,
+    "popular": false
+  },
+  {
+    "code": "5",
+    "name": "آستاره",
+    "price": 5000,
+    "popular": false
+  },
+  {
+    "code": "6",
+    "name": "آستانه اشرفیه",
+    "price": 6000,
+    "popular": false
+  },
+  {
+    "code": "7",
+    "name": "فومن",
+    "price": 5000,
+    "popular": true
+  },
+  {
+    "code": "8",
+    "name": "لنگرود",
+    "price": 5000,
+    "is_favorite": true
+  },
+  {
+    "code": "9",
+    "name": "رودبار",
+    "price": 25000,
+    "is_favorite": false
+  },
+  {
+    "code": "10",
+    "name": "شفت",
+    "price": 25000,
+    "is_favorite": false
+  },
+  {
+    "code": "11",
+    "name": "صومعه سرا",
+    "price": 2000,
+    "is_favorite": true
+  }
+]

@@ -1,0 +1,11 @@
+pyinstaller ^
+  --noconfirm ^
+  --clean ^
+  --onedir ^
+  --windowed ^
+  --name CargoBud ^
+  --icon "assets/icon.ico" ^
+  --add-data "assets;assets" ^
+  --log-level=WARN ^
+  --collect-all flet ^
+  main-5.py

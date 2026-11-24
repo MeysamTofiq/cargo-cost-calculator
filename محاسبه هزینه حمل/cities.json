@@ -1,0 +1,200 @@
+[
+  {
+    "code": "1",
+    "name": "رشت",
+    "price": 1000,
+    "popular": true
+  },
+  {
+    "code": "12",
+    "name": "تالش",
+    "price": 2000,
+    "popular": false
+  },
+  {
+    "code": "2",
+    "name": "انزلی",
+    "price": 1300,
+    "popular": true
+  },
+  {
+    "code": "3",
+    "name": "فومن",
+    "price": 1500,
+    "popular": true
+  },
+  {
+    "code": "4",
+    "name": "خمام",
+    "price": 1200,
+    "popular": false
+  },
+  {
+    "code": "10",
+    "name": "آستارا",
+    "price": 2500,
+    "popular": false
+  },
+  {
+    "code": "5",
+    "name": "لاهیجان",
+    "price": 1400,
+    "popular": false
+  },
+  {
+    "code": "6",
+    "name": "لشت نشا",
+    "price": 1300,
+    "popular": false
+  },
+  {
+    "code": "7",
+    "name": "شفت",
+    "price": 1700,
+    "popular": false
+  },
+  {
+    "code": "8",
+    "name": "سیاهکل",
+    "price": 2000,
+    "popular": false
+  },
+  {
+    "code": "9",
+    "name": "لولمان",
+    "price": 1100,
+    "popular": false
+  },
+  {
+    "code": "11",
+    "name": "کوچصفهان",
+    "price": 1100,
+    "popular": false
+  },
+  {
+    "code": "13",
+    "name": "پونل",
+    "price": 2400,
+    "popular": false
+  },
+  {
+    "code": "14",
+    "name": "رستم آباد",
+    "price": 1500,
+    "popular": false
+  },
+  {
+    "code": "15",
+    "name": "سنگر",
+    "price": 1500,
+    "popular": false
+  },
+  {
+    "code": "16",
+    "name": "رامسر",
+    "price": 2000,
+    "popular": false
+  },
+  {
+    "code": "17",
+    "name": "چالوس",
+    "price": 3000,
+    "popular": false
+  },
+  {
+    "code": "18",
+    "name": "عباس آباد",
+    "price": 3000,
+    "popular": false
+  },
+  {
+    "code": "19",
+    "name": "تنکابن",
+    "price": 3000,
+    "popular": false
+  },
+  {
+    "code": "20",
+    "name": "لنگرود",
+    "price": 2500,
+    "popular": false
+  },
+  {
+    "code": "21",
+    "name": "املش",
+    "price": 2000,
+    "popular": false
+  },
+  {
+    "code": "22",
+    "name": "صومعه سرا",
+    "price": 1600,
+    "popular": false
+  },
+  {
+    "code": "23",
+    "name": "آستانه اشرفیه",
+    "price": 1400,
+    "popular": false
+  },
+  {
+    "code": "24",
+    "name": "کلاچای",
+    "price": 1900,
+    "popular": false
+  },
+  {
+    "code": "25",
+    "name": "خشکبیجار",
+    "price": 1700,
+    "popular": false
+  },
+  {
+    "code": "26",
+    "name": "رودسر",
+    "price": 1900,
+    "popular": false
+  },
+  {
+    "code": "27",
+    "name": "لیسار",
+    "price": 2000,
+    "popular": false
+  },
+  {
+    "code": "28",
+    "name": "ماسال",
+    "price": 1900,
+    "popular": false
+  },
+  {
+    "code": "29",
+    "name": "اسالم",
+    "price": 1900,
+    "popular": false
+  },
+  {
+    "code": "30",
+    "name": "رودبار",
+    "price": 1700,
+    "popular": false
+  },
+  {
+    "code": "31",
+    "name": "چابکسر",
+    "price": 2200,
+    "popular": false
+  },
+  {
+    "code": "32",
+    "name": "پره سر",
+    "price": 1800,
+    "popular": false
+  },
+  {
+    "code": "33",
+    "name": "نشتارود",
+    "price": 1700,
+    "popular": false
+  }
+]

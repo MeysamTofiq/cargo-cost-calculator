@@ -1,0 +1,15 @@
+# بیلد و بسته‌ها
+build/
+dist/
+*.spec
+*.rar
+
+# لاگ‌ها
+logs.json
+
+# پایتون
+__pycache__/
+*.pyc
+
+# سیستم
+Thumbs.db
